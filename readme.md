@@ -1,5 +1,5 @@
 <h1>Simple CRM in Laravel</h1>
-<p>I created a simple CRM in PHP. I used Laravel framework. To dynamic forms I used Laravel Collective.</p>
+<p>I created a simple CRM in PHP. I used Laravel 5.8 framework. To dynamic forms I used Laravel Collective.</p>
 <p>In this project I did:</p>
 <p>-authorization (login and registration)</p>
 <p>-displaying current tasks</p>
